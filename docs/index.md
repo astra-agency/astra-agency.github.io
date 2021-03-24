@@ -28,7 +28,10 @@
 
 2. Как задавать вопросы? 5 простых правил - https://www.youtube.com/watch?v=0_LNNfgvGK4
 
+# В любом правиле есть исключения
 
+Если ты думаешь что правила тупые и не справидливые, ты можешь сделать пул реквест на изменения и отправить в чат.
 
+Если пул реквет будет принят, правила изменятся.
 
-You can use the [editor on GitHub](https://github.com/woowpru/woowpru.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Менять тут [editor on GitHub](https://github.com/woowpru/woowpru.github.io/edit/main/docs/index.md) 

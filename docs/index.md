@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Общие
+
+- это чат, это не форум
+- про WordPress & WooCommerce
+
+# Вопросы про как что то сделать
+
+- вопросы задают тут [https://ru.wordpress.org/support/](https://ru.wordpress.org/support/)
+- вопросы задают тут [https://qna.habr.com/tag/wordpress/info](https://qna.habr.com/tag/wordpress/info)
+- в чат можно скинуть ссылку на вопрос, если будет указана сумма вознаграждения
+    - если сумма указана и по вопросу была помощь - платеж отправляется в адрес тех кто помог
+    - жульничество ведет в бан
+- админов эти ограничения не касаются
+
+# Админы
+
+- админы - это активные участники сообщества, которые помогают другим участникам, дают полезные ответы и советы, могут задавать понятные вопросы
+- админом может стать любой участник сообщества, если его укусит другой админ
+
+# Работа, вакансии, резюме
+
+- это сюда @wordpress_jobs
+- от туда можно сделать форвард в чат
+
+# Видео
+
+1. Где искать ответы? Ресурсы для поиска - https://www.youtube.com/watch?v=zda6oAzndxI
+
+2. Как задавать вопросы? 5 простых правил - https://www.youtube.com/watch?v=0_LNNfgvGK4
+
+
+
 
 You can use the [editor on GitHub](https://github.com/woowpru/woowpru.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/woowpru/woowpru.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -37,3 +37,7 @@
 Если пул реквет будет принят, правила изменятся.
 
 Менять тут [editor on GitHub](https://github.com/woowpru/woowpru.github.io/edit/main/docs/index.md) 
+
+# Прочее
+- варезу нет
+- любые запросы на взломанные версии плагинов или тем - это бан

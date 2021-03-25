@@ -1,6 +1,6 @@
 # Общие
 
-- это чат, это не форум [https://t.em/c_wordpress/](https://t.em/c_wordpress/) 
+- это чат, это не форум [https://t.me/c_wordpress/](https://t.me/c_wordpress/) 
 - про WordPress & WooCommerce
 - тут обсуждаются сложные вопросы или темы про WP & WooCommerce, если ты админ.
 - если ты не админ - читай правила ниже

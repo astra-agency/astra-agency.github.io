@@ -9,7 +9,7 @@
 
 - вопросы задают тут [https://ru.wordpress.org/support/](https://ru.wordpress.org/support/)
 - вопросы задают тут [https://qna.habr.com/tag/wordpress/info](https://qna.habr.com/tag/wordpress/info)
-- чат с менторингом от опытных разработчиков и месячной оплатой [https://openland.com/group/Y96dY7a3MwSP1Q1jJvPluwl5lk](https://openland.com/group/Y96dY7a3MwSP1Q1jJvPluwl5lk)
+- чат с менторингом от опытных разработчиков и месячной оплатой где можно задавать любые вопросы [https://openland.com/group/Y96dY7a3MwSP1Q1jJvPluwl5lk](https://openland.com/group/Y96dY7a3MwSP1Q1jJvPluwl5lk)
 - в чат можно скинуть ссылку на вопрос, если будет указана сумма вознаграждения
     - если сумма указана и по вопросу была помощь - платеж отправляется в адрес тех кто помог
     - жульничество ведет в бан
